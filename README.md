@@ -1,5 +1,3 @@
-# Pujitha
-
 <h1 align="center">Hi 👋 I'm Pujitha Malladi</h1>
 <h3 align="center">Cloud Engineer | DevOps | Kubernetes | Multi-Cloud Architecture</h3>
 
@@ -174,7 +172,7 @@ Issued by Microsoft
 
 # 🔥 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pujitha-ReddyE&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pujitha-Reddy&theme=react-dark"/>
 
 ---
 
