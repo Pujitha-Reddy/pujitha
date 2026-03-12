@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Pujitha </h1>
-<h3 align="center">Cloud Engineer | DevOps | Kubernetes | Multi-Cloud Architecture | Infrastructure Automation | Cloud Migration | DevSecOps | Terraform </h3>
+<h3 align="center">Cloud Engineer | DevOps | Kubernetes | AWS | GCP| Azure | DevSecOps </h3>
 
 <p align="center">
 <a href="https://pujitha-portfolio-rose.vercel.app/">
