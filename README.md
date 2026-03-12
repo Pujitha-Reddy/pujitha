@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Pujitha </h1>
-<h3 align="center">Cloud Engineer | DevOps | Kubernetes | AWS | GCP| Azure | DevSecOps </h3>
+<h3 align="center">Cloud Engineer | DevOps | Kubernetes | Multi-Cloud Architecture</h3>
 
 <p align="center">
 <a href="https://pujitha-portfolio-rose.vercel.app/">
@@ -156,23 +156,5 @@ Issued by Microsoft
 </p>
 
 ---
----
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pujitha-Reddy&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pujitha-Reddy&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pujitha-Reddy&theme=react-dark"/>
-
----
 
