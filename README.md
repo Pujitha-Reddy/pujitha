@@ -19,7 +19,7 @@
 
 # 👩‍💻 About Me
 
-Cloud Engineer with **4+ years of experience designing and operating cloud infrastructure across AWS, Azure, and GCP**.
+Cloud Engineer with **3+ years of experience designing and operating cloud infrastructure across AWS, Azure, and GCP**.
 
 My work focuses on building **highly automated cloud platforms**, implementing **Infrastructure as Code**, and creating **scalable Kubernetes-based architectures** that enable faster software delivery and operational reliability.
 
@@ -164,7 +164,7 @@ Issued by Microsoft
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pujitha-Reddy&show_icons=true&theme=tokyonight"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pujitha-Reddy&layout=compact&theme=tokyonight"/>
 
